@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Tshimangadzo/web-shop-ci#readme",
   "dependencies": {
-    "angular": "^1.8.3",
-    "bootstrap": "^5.2.2",
-    "jquery": "^3.6.1"
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
   }
 }
